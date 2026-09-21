@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='XoWishlist Video Walkthrough' width='' alt='XoWishlist Video Walkthrough' />
+<img src='XoWishlist-Video-Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with (https://www.screentogif.com/)
