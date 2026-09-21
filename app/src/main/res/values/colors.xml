@@ -1,0 +1,9 @@
+<resources>
+    <color name="purple_500">#B71C1C</color>
+    <color name="purple_700">#7F0000</color>
+    <color name="xo_pink">#FF2D78</color>
+    <color name="xo_pink_dark">#C2185B</color>
+    <color name="xo_purple">#7C3AED</color>
+    <color name="xo_gold">#FFD60A</color>
+    <color name="xo_background">#FFF5F8</color>
+</resources>
